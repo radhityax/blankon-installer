@@ -1,0 +1,2 @@
+deb [trusted=yes] copy:/home/blankon/debian-installer-20260628/build/ localudebs/   
+deb https://arsip-dev.blankonlinux.id/sinambung/ sinambung main/debian-installer
